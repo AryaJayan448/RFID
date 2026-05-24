@@ -151,4 +151,4 @@ This tool is intended for **educational and authorized security testing purposes
 ---
 
 ## License
-
+MIT License
