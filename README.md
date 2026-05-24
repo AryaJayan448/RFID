@@ -78,7 +78,7 @@ rfid_security_tester/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/rfid_security_tester.git
+git clone https://github.com/AryaJayan448/rfid_security_tester.git
 cd rfid_security_tester
 ```
 
